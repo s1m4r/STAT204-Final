@@ -1,0 +1,15 @@
+sample,group,markers
+ESC_1,ESC,oct4_nanog
+ESC_2,ESC,oct4_nanog
+ESEVT_1,ESEVT,hla-g
+ESEVT_2,ESEVT,hla-g
+ESST_1,ESST,abc
+ESST_2,ESST,abc
+ESTSLC_1,ESTSLC,krt7_gata3
+ESTSLC_2,ESTSLC,krt7_gata3
+EVT_1,EVT,hla-g
+EVT_2,EVT,hla-g
+ST_1,ST,abc
+ST_2,ST,abc
+TSC_1,TSC,krt7_gata3
+TSC_2,TSC,krt7_gata3
